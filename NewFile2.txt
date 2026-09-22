@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Изменения от напарника 2
+=======
+Goodbye
+Hello
+Au revoir
+Bonjour
+Au revoir
+>>>>>>> d7e04d2 (Изменения перед rebse)
